@@ -1,0 +1,22 @@
+{
+  "name": "Demotheme",
+  "version": "1.0.0",
+  "description": "My well-made Nuxt.js project",
+  "author": "!dox",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "sass": "^1.26.9",
+    "sass-loader": "^9.0.1",
+    "sass-resources-loader": "^2.0.3",
+    "webpack": "^4.43.0"
+  }
+}
